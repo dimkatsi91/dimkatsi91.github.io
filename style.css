@@ -1,4 +1,3 @@
-
 * { 
     margin: 0  ; 
     padding: 0 ; 
@@ -6,8 +5,7 @@
 
 body { 
     font: 16px Comic Sans MS, Helvetica, Sans-Serif; 
-    line-height: 24px; 
-    background: url(images/back.jpg); 
+    line-height: 24px;
 }
 
 .clear { 
@@ -33,7 +31,7 @@ h1 {
     border-bottom: 1px solid #999; 
 }
 
-h2 { 
+h2 {
     font-size: 20px; 
     margin: 0 0 6px 0; 
     position: relative; 
@@ -83,7 +81,8 @@ ul {
 dt { 
     font-style: italic; 
     font-weight: bold; 
-    font-size: 18px; 
+    font-size: 18px;
+    color: #1E8BC3;
     text-align: right; 
     padding: 0 26px 0 0; 
     width: 150px; 
@@ -158,4 +157,5 @@ dd.clear {
 
 .fn {
     font-family: Times New Roman, Courier New;
+    color: #1E8BC3;
 }
