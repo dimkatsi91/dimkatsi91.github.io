@@ -125,8 +125,7 @@ dd.clear {
     font-family: Lucide Console;
     font-size: 16px;
     position: absolute;
-    top: 388px;
-    left: 325px;
+    margin: 144px 45px;
 }
 
 .job-date {
@@ -140,24 +139,21 @@ dd.clear {
     font-family: Lucide Console;
     font-size: 16px;
     position: absolute;
-    top: 748px;
-    left: 325px;
+    margin: 110px 45px;
 }
 
 .dig_lab-date {
     font-family: Lucide Console;
     font-size: 16px;
     position:absolute;
-    top: 858px;
-    left: 325px;
+    margin: 220px 45px;
 }
 
 .lab_i-date {
     font-family: Lucide Console;
     font-size: 16px;
     position: absolute;
-    top: 945px;
-    left: 325px;
+    margin: 330px 45px;
 }
 
 .fn {
