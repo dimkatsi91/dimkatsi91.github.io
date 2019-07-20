@@ -102,6 +102,7 @@ dd.clear {
     float: none; 
     margin: 0; 
     height: 15px; 
+    position: relative;
 }
 
 .admin-photo img {
@@ -111,4 +112,54 @@ dd.clear {
     margin: 25px 0 0 0;
     float: right;
     border-radius: 50%;
+}
+
+.BSc-date {
+    font-family: Lucide Console;
+    font-size: 16px;
+    position: absolute;
+    margin: 40px 45px; 
+}
+
+.MSc-date {
+    font-family: Lucide Console;
+    font-size: 16px;
+    position: absolute;
+    top: 388px;
+    left: 325px;
+}
+
+.job-date {
+    font-family: Lucide Console;
+    font-size: 16px;
+    position: absolute;
+    margin: 30px 45px;
+}
+
+.lab_ii-date {
+    font-family: Lucide Console;
+    font-size: 16px;
+    position: absolute;
+    top: 748px;
+    left: 325px;
+}
+
+.dig_lab-date {
+    font-family: Lucide Console;
+    font-size: 16px;
+    position:absolute;
+    top: 858px;
+    left: 325px;
+}
+
+.lab_i-date {
+    font-family: Lucide Console;
+    font-size: 16px;
+    position: absolute;
+    top: 945px;
+    left: 325px;
+}
+
+.fn {
+    font-family: Times New Roman, Courier New;
 }
